@@ -1,6 +1,6 @@
 **Desafio**
 ----
- Api desenvolvida em NET 5 e fluxo conversacional do bot da plataforma Blip.
+ Descrição da Api desenvolvida em NET 5 para a etapa técnica do processo seletivo da take blip.
 
 * **URL**
 
