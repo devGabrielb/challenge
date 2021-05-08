@@ -64,7 +64,7 @@ namespace Api.Controllers
                 if (apiException.StatusCode == HttpStatusCode.Forbidden)
                 {
 
-                    return Forbid(apiException.Content);
+                    return Forbid(apiException.Message);
                 }
 
                 return BadRequest(apiException.Message);
