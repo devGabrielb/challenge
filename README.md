@@ -19,8 +19,8 @@
 
    * `Sort`:	|string |	query | Ordernar repositórios a partir de: `created`, `updated`, `pushed`, `full_name`.
    * `Direction`:	| string | query |	Tipo de Ordenação `asc` or `desc`, crescente ou decrescente.
-   * `limitResults`:	| int | query |	Numero derepositórios por requisição
-   * `language`:	| string | query | Classificar repositórios por language
+   * `limitResults`:	| int | query |	Número de repositórios por requisição
+   * `language`:	| string | query | Classificar repositórios por liguagem de programação
    
    
 * **Exemplo:**
